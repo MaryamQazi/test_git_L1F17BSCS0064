@@ -1,4 +1,4 @@
-"Name: Maryam Qazi" 
+Name: Maryam Qazi
 email: maryam.qazi@ucp.edu.pk
-Faculty of Information Technology
+Faculty of Information Technology, UCP
 Web Application Design
